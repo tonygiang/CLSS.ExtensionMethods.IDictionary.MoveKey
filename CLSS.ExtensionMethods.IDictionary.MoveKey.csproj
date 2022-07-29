@@ -7,6 +7,8 @@
     <Authors>TonyGiang</Authors>
     <Description>An extension method to move the value of a dictionary's key to another key. A part of the C# Language Syntactic Sugar suite.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.MoveKey</RepositoryUrl>
+    <PackageTags>CLSS</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
